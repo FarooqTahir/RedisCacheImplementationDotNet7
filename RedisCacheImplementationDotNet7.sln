@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisCacheImplementationDotNet7", "RedisCacheImplementationDotNet7.csproj", "{FBE228AB-97E8-4462-B358-76A3CC6DDABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE228AB-97E8-4462-B358-76A3CC6DDABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE228AB-97E8-4462-B358-76A3CC6DDABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE228AB-97E8-4462-B358-76A3CC6DDABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE228AB-97E8-4462-B358-76A3CC6DDABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB9E11DB-D804-49E4-BA52-644624D27A54}
+	EndGlobalSection
+EndGlobal
